@@ -15,6 +15,7 @@ body {
     background: url(https://static.vecteezy.com/system/resources/previews/000/665/616/original/vector-blue-tech-background-with-big-arrows-technology-concept.jpg);
     /* background-image: url('bg.jpg'); */
     box-sizing: border-box;
+    overflow-x:hidden;
 }
 
 h2 {
